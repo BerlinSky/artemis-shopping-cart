@@ -1,0 +1,16 @@
+{
+  "presets": [
+    "latest",
+    "stage-1"
+  ],
+  "env": {
+    "development": {
+      "presets": [
+      ]
+    },
+    "production": {
+      "plugins": [
+      ]
+    }
+  }
+}
